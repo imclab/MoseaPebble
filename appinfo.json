@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "versionCode": 1,
+    "longName": "Moon and sea clock",
+    "shortName": "Test Proyect",
+    "capabilities": [
+        ""
+    ],
+    "versionLabel": "1.0",
+    "companyName": "virtual.solid.snake@gmail.com",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "file": "images/moon.png",
+                "name": "Moon",
+                "type": "png"
+            },
+            {
+                "file": "images/day.png",
+                "name": "day_night",
+                "type": "png"
+            }
+        ]
+    },
+    "uuid": "0fd158ae-c154-4b2d-b09b-57971af3c567"
+}
